@@ -2,9 +2,11 @@ import css from './style.css';
 import home from './home.js';
 import menu from './menu.js';
 import about from './about.js';
+import restaurantPhoto from './restaurant.jpg';
 
 
 const content = document.querySelector('#content')
+
 
 content.appendChild(home());
 
