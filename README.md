@@ -4,7 +4,7 @@ This page is dynamically created with JavaScript mainly, then put together throu
 ## Live Page Deployment
 Can be seen [here](https://yomanbest67.github.io/restaurant_page/). 
 
-### Technologies used
+## Technologies used
 - JavaScript 
 - CSS (Flexbox)
 - Webpack
